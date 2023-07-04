@@ -1,5 +1,39 @@
 ### Olá, sou Ivens Magno ✔️
 
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  td {
+    padding: 0;
+  }
+</style>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/ivensmagno/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
+    </td>
+    <td>
+      <a href="https://mail.google.com/mail/?view=cm&to=ivensmagno@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      </a>
+    </td>
+    <td>
+      <a href="https://t.me/nomedousuario">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+      </a>
+    </td>
+    <td>
+      <a href="https://wa.me/5585999605690">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ![Ivens GitHub stats](https://github-readme-stats.vercel.app/api?username=ivens03&show_icons=true&theme=tokyonight)
 
 ### Tecnologias utilizada diariamente 🧠💡
@@ -12,6 +46,11 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+   <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
 ### Resolvendo problemas de forma rápida e prática 
